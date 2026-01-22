@@ -2,7 +2,9 @@
 
 Este projeto consiste em uma análise de dados de vendas de assinaturas Xbox, integrada a conceitos de infraestrutura em nuvem AWS.
 
-Prints do Proejto
+PRINTS DO PROJETO
+
+
 ![Dashboard de Vendas Xbox](./calculos.png)
 ![Dashboard de Vendas Xbox](./bases.png)
 ![Dashboard de Vendas Xbox](./Dashboards.png)
