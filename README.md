@@ -1,22 +1,15 @@
-# Dashboard_vendas_Xbox
+# 📊 Dashboard de Vendas Xbox - Análise & Cloud Foundation
 
-Dashboard de Vendas - Xbox Game Pass
-📝 Sobre o Projeto
-Este projeto foi desenvolvido para analisar o faturamento e a distribuição de assinantes dos planos Xbox (Ultimate, Core e Standard).
+Este projeto consiste em uma análise de dados de vendas de assinaturas Xbox, integrada a conceitos de infraestrutura em nuvem AWS.
 
-🛠️ Tecnologias Utilizadas
-Microsoft Excel: Utilizado para processamento de dados, criação de fórmulas de agregação (SOMASE, CONT.SE) e visualização de dados através de dashboards dinâmicos.
+## 📈 Resultados da Análise (KPIs)
+- **Faturamento Total:** 234
+- **Planos Analisados:** Ultimate, Core e Standard.
+- **Ferramenta:** Microsoft Excel (Tabelas Dinâmicas e Dashboards).
 
-📈 Funcionalidades
-Análise de Faturamento: Soma total de vendas segmentada por nível de assinatura.
-
-Distribuição de Clientes: Contagem total de assinantes para entender a penetração de cada plano.
-
-Identidade Visual: Design customizado baseado nas cores oficiais do ecossistema Xbox.
-
-🚀 Como reproduzir
-Baixe o arquivo .xlsx deste repositório.
-
-Abra no Excel e navegue pela aba Dashboard para ver os indicadores.
-
-Os dados brutos podem ser consultados na aba Bases.
+## ☁️ Conceitos AWS Aplicados
+Durante o desenvolvimento, foram validados conhecimentos em:
+- **Alta Disponibilidade:** Estratégias Multi-AZ para instâncias EC2.
+- **Escalabilidade:** Uso de Auto Scaling e Elastic Load Balancing (ELB).
+- **Serverless:** Implementação com AWS Lambda e Fargate.
+- **Mensageria:** Desacoplamento de sistemas com Amazon SQS e SNS.
