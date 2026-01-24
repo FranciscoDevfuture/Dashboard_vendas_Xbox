@@ -42,9 +42,9 @@ A implementação de ferramentas na empresa **Abstergo Industries** tem como esp
 ## Anexos
 
 1. **Dashboard de Vendas Xbox:** Imagem do painel de controle desenvolvido no Excel.
-![Captura de Tela do Dashboard](.Dashboards.png)
-![Captura de Tela do Dashboard](.bases.png)
-![Captura de Tela do Dashboard](.calculos.png)
+![Dashboard de Vendas Xbox](./calculos.png)
+![Dashboard de Vendas Xbox](./bases.png)
+![Dashboard de Vendas Xbox](./Dashboards.png)
 
 
 3. **Planilha de Dados:** Arquivo `Dashboard_Vendas_Xbox.xlsx` disponível na raiz deste repositório.
